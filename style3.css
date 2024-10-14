@@ -1,0 +1,192 @@
+/* Reset básico */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    transition: transform 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: var(--color-red);
+    transform: scale(0.1);
+}
+
+
+/* Fundo com degradê */
+.contact-page {
+    background: linear-gradient(135deg, #0f0f0f, #3b3b3b);
+    padding: 40px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+    animation: fadeInUp 0.8s ease-out;  
+
+}
+
+.contact-page h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: #ff0000;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+    z-index: 1;
+}
+
+/* Formulário de Contato */
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(135deg, #0f0f0f, #3b3b3b);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fcfbfb;
+    color: #050505;
+    font-size: 1em;
+}
+
+.contact-form input:focus, .contact-form textarea:focus {
+    border: 2px solid #ff5555;
+    outline: none;
+    background-color:#ffffff;
+}
+
+.contact-form button {
+    padding: 10px 20px;
+    background-color: #f00606;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+    transition: background-color 0.3s ease;
+}
+
+.contact-form button:hover {
+    background-color: #490202d0;
+}
+
+/* Informações de contato */
+.contact-info {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.contact-info h2 {
+    margin-bottom: 10px;
+    font-size: 2em;
+    color: #ff0000;
+    animation: fadeInUp 0.8s ease-out;
+}
+
+.contact-info p {
+    font-size: 1.1em;
+    color: #dddddd;
+    animation: fadeInUp 0.8s ease-out;
+}
+
+/* Redes Sociais */
+.social-links {
+    margin-top: 20px;
+}
+
+.social-icon {
+    display: inline-block;
+    margin: 0 10px;
+    width: 40px;
+    height: 40px;
+    animation: fadeInUp 0.8s ease-out;
+}
+
+.social-icon img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.social-icon:hover img {
+    transform: scale(1.2);
+}
+
+/* Rodapé */
+/* Rodapé */
+footer {
+    background-color: #0f0f0f;
+    color: #bbbbbb;
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.2);
+    font-size: 0.9em;
+    z-index: 2;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
