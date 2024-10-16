@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/0bd8ef65-1de0-467b-8cc3-990918ab9ed6)
 Este é um projeto de site desenvolvido com **HTML**, **CSS** e **JavaScript**. O objetivo é criar uma página web interativa, com design responsivo e funcionalidades dinâmicas.
 
 ## Tecnologias Utilizadas
@@ -25,7 +25,7 @@ Este é um projeto de site desenvolvido com **HTML**, **CSS** e **JavaScript**. 
 
 ## Demonstração
 
-![Demonstração da Main page](https://media.discordapp.net/attachments/1186383513314926603/1296219509073383505/image.png?ex=67117dfd&is=67102c7d&hm=898542b595c59682d52fb06c634d34e7d032c24ca9fb4338d09e4a14b67774ed&=&format=webp&quality=lossless)
+![Demonstração da Main page](https://cdn.discordapp.com/attachments/1225510882860339240/1296221686361886730/image.png?ex=67118004&is=67102e84&hm=f88bc3aebe38dee519ca2c0866fe78e0c8b66f2e446e919cdeac042967700ac0&)
 
 ![Sobre Nos](https://cdn.discordapp.com/attachments/1225510882860339240/1296221951731306508/image.png?ex=67118043&is=67102ec3&hm=b0d6eaf65d9d3780d4d4e201d6a7d2288baca09974f5ab6e1c3f833cdbb5e03c&)
 
