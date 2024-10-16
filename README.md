@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0bd8ef65-1de0-467b-8cc3-990918ab9ed6)
+
 Este é um projeto de site desenvolvido com **HTML**, **CSS** e **JavaScript**. O objetivo é criar uma página web interativa, com design responsivo e funcionalidades dinâmicas.
 
 ## Tecnologias Utilizadas
