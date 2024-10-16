@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/046bf4bb-061a-4f22-afa6-d16e15eef3d5)![image](https://github.com/user-attachments/assets/df003f2d-855f-4908-ba86-5a0109bb38d4)# WEBSITE Project
 
 Este é um projeto de site desenvolvido com **HTML**, **CSS** e **JavaScript**. O objetivo é criar uma página web interativa, com design responsivo e funcionalidades dinâmicas.
 
