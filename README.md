@@ -32,4 +32,3 @@ Este é um projeto de site desenvolvido com **HTML**, **CSS** e **JavaScript**. 
 ![Contato](https://cdn.discordapp.com/attachments/1225510882860339240/1296222001706565653/image.png?ex=6711804f&is=67102ecf&hm=7cf4369b6d9aac31c2a967e02bdddc7bb63ce22c8c34e94703a3fb9b0f9b8d82&)
 
 ![Modpack](https://cdn.discordapp.com/attachments/1225510882860339240/1296222084350873751/image.png?ex=67118063&is=67102ee3&hm=1c1af220a0f3cbb8307a864d918b1f035856760436396d35a69e3c9b4f12255d&)
-
